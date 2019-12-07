@@ -24,13 +24,13 @@ const HomePage = () => (
             </div>
             <div className='menu-item'>
                 <div className='content'>
-                    <h1 className='title'>Men</h1>
+                    <h1 className='title'>MEN</h1>
                     <span className='subtitle'>SHOP NOW</span>
                 </div>
             </div>
             <div className='menu-item'>
                 <div className='content'>
-                    <h1 className='title'>Women</h1>
+                    <h1 className='title'>WOMAM</h1>
                     <span className='subtitle'>SHOP NOW</span>
                 </div>
             </div>
